@@ -12,11 +12,13 @@
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@mui/material": "^5.16.6",
+    "check-peer-dependencies": "^4.3.0",
     "firebase": "^9.23.0",
     "next": "14.2.5",
-    "react": "^18",
-    "react-dom": "^18",
-    "reactfire": "^4.2.3",
+    "npm-force-resolutions": "^0.0.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "reactfire": "^4.1.1",
     "rxfire": "^6.0.5"
   },
   "devDependencies": {
